@@ -1,0 +1,22 @@
+ # Visual Studio Files
+.vs/
+*.vcxproj.user
+*.opendb
+*.VC.db
+*.ipch
+*.pdb
+*.idb
+*.log
+*.obj
+*.exe
+*.ilk
+*.dll
+*.tlb
+*.tli
+*.tlog
+*.vscode/
+
+# Build results
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
